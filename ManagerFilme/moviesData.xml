@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movies>
+                                                                                                                                                                
+    
+    
+        
+    
+    
+        
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+
+    
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+
+    
+    
+    
+            
+    
+    
+    
+    
+    
+                
+
+
+
+    
+    
+        
+    
+    
+            
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+        
+    
+
+    
+    
+    
+    
+    
+    
+                    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                    
+
+
+    
+    
+    
+        
+
+    
+    
+    
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                    
+    
+    
+    
+    
+                    
+    
+    
+    
+            
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+    
+    
+    
+                            
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+
+
+
+
+
+    <movieNode>
+        <name>Persona</name>
+        <category>Drama</category>
+        <releaseDate>16/3/1967</releaseDate>
+        <rating>10</rating>
+        <imdb>8.1</imdb>
+    </movieNode>
+    <movieNode>
+        <name>The Godfather</name>
+        <category>Drama</category>
+        <releaseDate>24/3/1972</releaseDate>
+        <rating>9</rating>
+        <imdb>9.2</imdb>
+    </movieNode>
+    <movieNode>
+        <name>Icarus</name>
+        <category>Documentar</category>
+        <releaseDate>4/8/2017</releaseDate>
+        <rating>8</rating>
+        <imdb>7.9</imdb>
+    </movieNode>
+    <movieNode>
+        <name>Arrival</name>
+        <category>SF</category>
+        <releaseDate>11/11/2016</releaseDate>
+        <rating>7</rating>
+        <imdb>7.9</imdb>
+    </movieNode>
+</movies>
